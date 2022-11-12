@@ -1,0 +1,25 @@
+* {
+    border: 1px solid maroon;
+    padding: 0;
+    margin: 0;
+}
+
+p {
+    font-family: serif;
+    line-height: 1.75em;
+}
+
+.garis {
+    color: blue;
+}
+
+h1 {
+    font-family: sans;
+    color: pink;
+}
+
+input[type=text] {
+    background: white;
+    color: cyan;
+    padding: 10px;
+}

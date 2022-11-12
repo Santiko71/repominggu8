@@ -1,0 +1,38 @@
+* {
+    background-color: lightgray;
+}
+
+p {
+    font-family: serif;
+    line-height: 1.75em;
+}
+
+i {
+    font-family: sans;
+    color: greenyellow;
+}
+
+h2 {
+    font-family: sans;
+    color: #333;
+}
+
+.pink {
+    color: white;
+    background-color: pink;
+    padding: 5px;
+}
+
+#header {
+    background-color: teal;
+    color: white;
+    height: 100px;
+    padding: 50px;
+}
+
+input[type=text] {
+    background: white;
+    color: cyan;
+    padding: 10px;
+    border: 1px solid crimson;
+}
